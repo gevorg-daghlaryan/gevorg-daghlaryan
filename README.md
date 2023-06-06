@@ -11,7 +11,7 @@
  </div>
 </div>
 :computer: Languages, Frameworks and Libraries :
-
+<br>
 <div>
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -28,6 +28,7 @@
 </div>
 
 🛠️ Tools :
+  <br>
 <div>
   <img src="https://seeklogo.com/images/P/phpstorm-logo-220B633CDA-seeklogo.com.png" title="PHPStorm" alt="PHPStorm" width="40" height="40"/>&nbsp;
   <img src="https://seeklogo.com/images/W/webstorm-logo-691E749F21-seeklogo.com.png" title="WebStorm" alt="WebStorm" width="40" height="40"/>&nbsp;
