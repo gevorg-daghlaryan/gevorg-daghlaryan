@@ -10,7 +10,7 @@
   </a>
  </div>
 </div>
-### :computer: Languages, Frameworks and Libraries :
+:computer: Languages, Frameworks and Libraries :
 
 <div>
   <div>
